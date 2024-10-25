@@ -56,7 +56,7 @@ dependencies {
     coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:1.1.5'
 
     // Flutter dependencies
-    implementation 'io.flutter:flutter_embedding_debug:1.0.0' // Modify if necessary based on Flutter version
+    // implementation 'io.flutter:flutter_embedding_debug:1.0.0' // Modify if necessary based on Flutter version
     
     // Testing dependencies
     testImplementation 'junit:junit:4.13.2'
